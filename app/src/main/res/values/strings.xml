@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">OnTheMove</string>
+    <string name="home">home</string>
+    <string name="profile">profile</string>
+    <string name="no_internet">No internet connection</string>
+    <string name="title">Title</string>
+    <string name="save">Save</string>
+    <string name="share">Share</string>
+    <string name="search">Search</string>
+</resources>
